@@ -1,3 +1,5 @@
+<p>Are you ready for <b>it</b>?
+
 - 👋 Hi, I’m @TerranceBrunner
 - 👀 I’m interested in E-Commmerce and Web Development
 - 🌱 I’m currently learning the graphical user interface for Webflow 
